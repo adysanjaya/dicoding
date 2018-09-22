@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FootballMatchSchedule</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_prev">Prev Match</string>
+    <string name="title_next">Next Match</string>
+    <string name="title_fav">Favourite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorites">favorite</string>
+</resources>
